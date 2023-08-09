@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kishan-moliya-680742222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kishan Moliya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kishanmoliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kishan Moliya" height="30" width="40" /></a>
 <a href="https://twitter.com/kishanmoliya232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kishan moliya" height="30" width="40" /></a>
 <a href="https://instagram.com/kishan_moliya_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kishan_moliya_30" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kishan moliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kishan moliya" height="30" width="40" /></a>
